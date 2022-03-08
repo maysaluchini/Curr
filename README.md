@@ -1,9 +1,8 @@
-# Curriculo Online - Heloísa Bonilha
+# Curriculo Online - Maysa Luchini
 
 Site pessoal para você me conhecer um pouco melhor.
 
-Para acessar o site basta entrar em : https://heloisa-bonilha.github.io/CurriculOn-Heloisa-Bonilha/
-
+Para acessar o site basta entrar em : https://maysaluchini.github.io/Curriculo_Maysa/
 Vectors: https://www.freepik.com/
 Envio do Email Automático: https://www.smtpjs.com/
 
